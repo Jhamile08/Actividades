@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "nombre": "duque",
+        "edad": 21,
+        "englishLevel": "A0",
+        "clan": "Van Rossum"
+    },
+    {
+        "id" : 2,
+        "nombre": "kevin",
+        "edad": 21,
+        "englishLevel": "B2",
+        "clan": "Van Rossum"
+    }
+    ]

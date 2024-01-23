@@ -1,0 +1,8 @@
+.cards{
+    text-align: center;
+    margin: 40px;
+}
+#content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
